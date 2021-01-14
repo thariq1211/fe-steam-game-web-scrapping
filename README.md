@@ -8,7 +8,7 @@ Sampel portal review game steam dengan metode web scrapping. Stack teknologi yan
 4. Axios
 5. Emotion
 
-API Backend yang digunakan - [disini] (https://github.com/thariq1211/api-steam-game-review)
+API Backend yang digunakan - [disini](https://github.com/thariq1211/api-steam-game-review)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
