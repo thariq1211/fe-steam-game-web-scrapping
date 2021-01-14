@@ -1,0 +1,8 @@
+const actions = {
+  SET_RESULT: "SET_RESULT",
+  CLEAR_RESULT: "CLEAR_RESULT",
+  SET_GAME_DETAIL: "SET_GAME_DETAIL",
+  CLEAR_GAME_DETAIL: "CLEAR_GAME_DETAIL",
+};
+
+export default actions;
